@@ -164,5 +164,6 @@ for i = 1:4
 end
 
 
-dlmwrite('test.dat',results,'delimiter','');
+dlmwrite('2Ger.dat',results,'delimiter','');
 edit test.dat
+
